@@ -28,7 +28,6 @@ Ce projet vise à construire un **framework PHP minimaliste**, inspiré des meil
 - Système d’authentification sécurisé avec permissions utilisateurs.
 - Gestion des **rôles et autorisations (ACL)**.
 - Protection contre **SQL Injection**, **XSS**, **CSRF**.
-- Utilisation des **Design Patterns** : Repository, Service Container.
 - Classes pratiques : Validator, Security, Session.
 - Autoloading dynamique avec Composer.
 
