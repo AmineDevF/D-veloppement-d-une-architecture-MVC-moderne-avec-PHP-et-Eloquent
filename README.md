@@ -1,4 +1,4 @@
-# Framework PHP Minimaliste - Documentation GitHub
+# Développement d'une architecture MVC moderne avec PHP et Eloquent
 
 ## 📅 **Contexte du Projet**
 Dans le cadre du développement d'applications web modernes, une architecture **MVC (Modèle-Vue-Contrôleur)** bien structurée est essentielle pour assurer une séparation claire des responsabilités, une meilleure maintenabilité et une extensibilité du code.
